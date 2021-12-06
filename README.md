@@ -1,2 +1,2 @@
 # hello-express
- Generated project
+ Generated project by command line : npx express-generator-typescript "hello-express"
